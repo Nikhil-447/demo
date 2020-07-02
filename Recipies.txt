@@ -5,4 +5,9 @@ Nan
 Kulcha
 Chana
 Jeera
+Pizza
+Samosa
+SandWich
+Done my changes
+
 Final Copy
