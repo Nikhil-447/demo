@@ -5,3 +5,6 @@ Nan
 Kulcha
 Chana
 Jeera
+Pizza
+Samosa
+SandWich
